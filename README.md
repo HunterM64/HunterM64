@@ -16,7 +16,7 @@
 - MySQL
 - Git, Github
 - VSCode, IntelliJ IDEA
-- Linux, Windows
+- Linux, Windows, MacOS
 - Fiio M11 and Blessing 2: Dusk
-- Steam Deck (in Q3 2022)
+- Steam Deck
 
