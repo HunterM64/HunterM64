@@ -1,22 +1,33 @@
 # 👋 Hi, I’m @HunterM64
 
-- I do the code. 
-- It's pretty okay.
+**` Aspiring Software Engineer `**
 
-<h3> About Me: </h3>
+I do the code. \
+It's pretty okay.
 
-- Creating software to make things easier in my day to day life.
-- Studying Computer Science and Engineering at The Ohio State University.
-- Pursuing jobs in software engineering.
-- Love listening to music and exploring retro game design
+---
 
-<h3> What I Use: </h3>
+### Languages and Tools:
 
-- C, Python, Scala
-- MySQL
-- Git, Github
-- VSCode, IntelliJ IDEA
-- Linux, Windows, MacOS
-- Fiio M11 and Blessing 2: Dusk
-- Steam Deck
+C, Python, Node.js, Express.js, MySQL, VS Code, Git/GitHub, 
+
+#
+
+### Tech:
+
+Thinkpad X220 Tablet
+- Fedora Linux / Windows 10 Pro
+
+Mid 2012 Unibody Macbook Pro
+- MacOS Catalina 10.15
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterm64&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HunterM64&theme=gruvbox&border_radius=4.5) -->
+
+#
 
