@@ -2,23 +2,17 @@
 
 **` Aspiring Software Engineer `**
 
-I do the code. \
-It's pretty okay.
+My goal is to write software that will help people in their daily lives!
 
 ---
 
 ### Languages / Frameworks
 ```
-C 
-Python
-Java 
-Node.js 
-Express.js 
-MySQL 
-VS Code 
-IntelliJ Idea
-XCode
-Git/GitHub
+- C, C++
+- Python
+- Java, Scala
+- Node.js, Express.js 
+- MySQL 
 ```
 #
 ### Tools
