@@ -27,19 +27,19 @@ Git/Github
 
 ### Tech:
 ```
-Thinkpad X220 Tablet
+Framework 13
 - Fedora Linux
+- Ryzen 7 7840U
+- 16 GB DDR5-5600
+- 1 TB NVMe M.2
 
-Mid 2012 Unibody Macbook Pro
-- MacOS Catalina 10.15
-
-Gamer PC
+Roxanne
 - Windows 10 Education
 - Ryzen 5 3600
 - Radeon RX 5700XT
 - 16 GB RAM
 
-NAS
+OMV
 - OpenMediaVault
 - Athlon II X2 215
 - 4 GB RAM
